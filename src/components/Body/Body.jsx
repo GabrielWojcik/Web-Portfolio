@@ -11,14 +11,13 @@ export default function Body() {
            <ContainerImage>
                 <h1>
                     Hi <br/> 
-                    I'm Gabriel <br/>
+                    Im Gabriel <br/>
                     Developer<br/> Front-<span>End</span>.
                 </h1>
-                <Image src={Wolf} width={390} height={290} />
+                <Image src={Wolf} alt="wolf origami" width={390} height={290} />
             </ContainerImage> 
         </Container>
-                
-
+            
         </>
     )
 

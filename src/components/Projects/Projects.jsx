@@ -31,7 +31,7 @@ export default function Projects() {
                             </li>
                         </ul>
                         <ImageContainer>
-                    <Image src={Unicorn}  width={162} height={148}/>
+                    <Image src={Unicorn} alt="unicorn origamid"  width={162} height={148}/>
                 </ImageContainer>  
                     </DescriptionImage>
                 </ProjectCard>
@@ -51,7 +51,7 @@ export default function Projects() {
                             </li>
                         </ul>
                         <ImageContainer>
-                    <Image src={Phenix}  width={162} height={148}/>
+                    <Image src={Phenix} alt="bird origamid" width={162} height={148}/>
                 </ImageContainer>  
                     </DescriptionImage>
                   
